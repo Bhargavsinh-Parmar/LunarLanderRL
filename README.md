@@ -1,5 +1,4 @@
-Here is a Word document version of the README file for your Lunar Lander Reinforcement Learning project:
-
+```markdown
  Lunar Lander Reinforcement Learning
 
 This project demonstrates the implementation of a reinforcement learning agent that learns to navigate the Lunar Lander environment using PyTorch and Gymnasium.
@@ -10,7 +9,7 @@ The Lunar Lander environment, provided by Gymnasium, presents a challenging task
  Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/lunar-lander-rl.git
+git clone https://github.com/Bhargavsinh-Parmar/lunar-lander-rl.git
 ```
 2. Navigate to the project directory:
 ```bash
