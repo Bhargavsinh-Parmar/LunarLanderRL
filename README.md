@@ -4,16 +4,6 @@ Here is a Word document version of the README file for your Lunar Lander Reinfor
 
 This project demonstrates the implementation of a reinforcement learning agent that learns to navigate the Lunar Lander environment using PyTorch and Gymnasium.
 
- Table of Contents
-- [Introduction](introduction)
-- [Installation](installation)
-- [Usage](usage)
-- [Project Structure](project-structure)
-- [Results](results)
-- [Future Improvements](future-improvements)
-- [Contributing](contributing)
-- [License](license)
-
  Introduction
 The Lunar Lander environment, provided by Gymnasium, presents a challenging task where an agent must land a spacecraft on the moon's surface without crashing. In this project, we develop a reinforcement learning agent using PyTorch to learn the optimal strategy for successfully landing the lunar module.
 
@@ -60,6 +50,3 @@ After training for 2000 episodes, the agent successfully learned to land the lun
 
  Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
- License
-This project is licensed under the [MIT License](LICENSE).
